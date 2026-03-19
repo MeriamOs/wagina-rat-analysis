@@ -21,7 +21,7 @@ conda activate /nesi/nobackup/uoo02328/meriam/conda_environments/bamplotter
 
 #ml load SAMtools/1.12-GCC-9.2.0
 
-for reference in R.exulans R.praetor L.lakedownensis S.ponceleti M.burtoni M.cervinipes M.bougainville
+for reference in M.bougainville M.burtoni M.cervinipes R.exulans R.praetor S.ponceleti 
 	do
 		for sample in MS11705 MS11706 
 		do
